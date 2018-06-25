@@ -21,7 +21,7 @@ Je kan natuurlijk zelf een nieuwe repository maken, in de workshop maken we een 
 ## Issue maken met BetterCodeHub
 - [Issues](https://guides.github.com/features/issues/) zijn een prima manier om taken, verbeteringen en bugs in GitHub vast te leggen.
 - Ga naar beide repos en enable issues. Ga in de repo naar Settings > Options > Features en vink Issues aan.
-- Ga naar de analyse van LearnAkka en maak een issue van de candidate
+- Ga naar de analyse van LearnAkka, naar short units of code en maak een issue van de candidate HelloWorld.java
 
 
 
