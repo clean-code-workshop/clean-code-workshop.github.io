@@ -1,6 +1,6 @@
 ## Benodigheden workshop
 - Chrome / Safari / Firefox browser
-- GitHUb account heb je dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
+- GitHub account, heb je dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
 
 ## Zet 2 public repositories met code in je GitHub account
 Je kan natuurlijk zelf een nieuwe repository maken, in de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos.
