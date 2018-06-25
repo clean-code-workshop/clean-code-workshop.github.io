@@ -66,7 +66,6 @@ Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses 
 Nu de learnakka op alle guidelines compliant is gaan we een trotse badge plaatsen.
 - Ga hiervoor naar BetterCodeHub, naar de my repos page en druk op het gear icon van Learnakka
 - kopier uit de settings dialog het stukje code bij 'Grab your badge for markdown'
-- voorbeeld: [![BCH compliance](https://bettercodehub.com/eddge/badge/UWNAAM/learnakka?branch=master)](https://bettercodehub.com/)
 - Ga naar de readme.md van Learnakka op GitHub, plaats de file in edit mode en voeg uw eigen de code toe.
 - Hier kan je direct op master committen ;-)
 - bekijk uw trotse badge
