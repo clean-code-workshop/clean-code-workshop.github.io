@@ -1,0 +1,103 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+  background-color:#FFF;
+  font-family:"PT Sans", "Helvetica Neue", sans-serif;
+  color:#333;
+}
+
+#headercontainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#logos{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+#logos img{
+  padding:10px;
+  min-height:50px;
+  flex-shrink:0;
+}
+
+img .icon{
+  max-height:65px;
+  max-width:65px;
+}
+
+header{
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:15px;
+  flex:3;
+}
+
+header h1{
+  font-family:"PT Sans", "Helvetica Neue", sans-serif;
+  color:rgb(130, 36, 78);
+}
+
+#container{
+  padding-top:15px;
+}
+
+#navigation a{
+  text-decoration:none;
+  font-size:18px
+}
+
+#navigation li{
+  display:inline;
+}
+
+h1{
+  color:rgb(130, 36, 78);
+  font-weight:bold;
+}
+
+h2, h3{
+  color:#335687;
+}
+
+a{
+  color:#335687;
+  text-decoration:underline;
+}
+
+a:hover{
+  color:#4676b9;
+}
+
+table{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 120%;
+  border: 1px solid #ebebeb;
+  text-align: left;
+}
+
+thead{
+  background-color: #335687;
+  color: #FFF;
+  text-shadow: none;
+  text-indent: 10px;
+}
+
+tbody, td{
+  text-indent:10px;
+  text-align:left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
