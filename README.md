@@ -1,4 +1,4 @@
-# Kijk real-time onder de motorkap met online-tool van de Software Improvement Group (sig.eu)
+# Kijk real-time onder de motorkap met online-tool van Software Improvement Group
 
 BetterCodeHub.com een code kwaliteit tool in de developer workflow (CI/CD) van GitHub.
 
@@ -11,7 +11,7 @@ BetterCodeHub.com een code kwaliteit tool in de developer workflow (CI/CD) van G
 Met BetterCodeHub.com krijg je een duidelijke overall score van 1 tot 10 én gedetailleerd verbeter-advies voor de kwaliteit van je code. De tool helpt developers hun prioriteiten te leggen bij wat echt belangrijk is voor een goede onderhoudbaarheid nu en in de toekomst. 
 
 ### 10 beschreven guidelines
-De tool meet 10 software engineering aspecten en classificeert de code in kwaliteitsprofielen. Developers krijgen in de GitHub workflow suggesties welke files aangepakt kunnen worden in de volgende sprint om wel 'groen’ te scoren. Download SIG's boek 'Building Maintainable Software',[hier in de C# edition (pdf)](https://www.sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf).
+De tool meet 10 software engineering aspecten en classificeert de code in kwaliteitsprofielen. Developers krijgen in de GitHub workflow suggesties welke files aangepakt kunnen worden in de volgende sprint om wel 'groen’ te scoren. Download SIG's boek 'Building Maintainable Software', [hier in de C# edition (pdf)](https://www.sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf).
 
 
 ### Klaar is klaar
