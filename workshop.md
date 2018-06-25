@@ -11,17 +11,20 @@ Je kan natuurlijk zelf een nieuwe repository maken, in de workshop maken we een 
 ## Installeer BetterCodeHub
 - Ga naar BetterCodeHub.com 
 - Login met je GitHub account, accepteer de 'scopes'
-- Je komt op de my Repository page
+- Je wordt welkom geheten op de my Repository page 
+
 
 ## Eerste 2 analyses
-- druk op de play knop voor een van de repositories
-- de analyse zal starten en uw eerste rapport opent, blader door het rapport
+- druk op de Play knop van een van de repositories, daarna de ander
+- de analyse zal starten en uw eerste rapport opent, blader door het rapport, zie de overall score en de guidelines.
 - ga naar terug naar my repositories page en start de andere analyse
 
 ## Aanzetten Push en Pull Request integratie -- CI/CD integratie
-- Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses gedraaid zullen worden bij elke 'commit' op de code. Als dit aangezet is dat is BetterCodeHub onderdeel van de CI/CD pipeline
-- druk op beide cards van de repository op het Pull request icoon links onder.
--
+Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses gedraaid zullen worden bij elke 'commit' op de code. Als dit aangezet is dat is BetterCodeHub onderdeel van de CI/CD pipeline
+- Ga naar de my repos page en druk op beide cards op het Pull request icoon links onder
+- Omdat BetterCodeHub voor deze actie schrijfrechten nodig heeft in de repo krijgt u nu een additionele 'scope' vraag, accepteer ook deze.
+- De melding volgt dat Push en Pull request is enabled
+- Controleer de webhook door in GitHub.com/uwaccount te bekijken onder Settings > 
 
 ## Hello World Issue maken met BetterCodeHub
 - [Issues](https://guides.github.com/features/issues/) zijn een prima manier om taken, verbeteringen en bugs in GitHub vast te leggen.
