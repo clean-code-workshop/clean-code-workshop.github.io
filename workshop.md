@@ -13,9 +13,12 @@ Je kan natuurlijk zelf een nieuwe repository maken, in de workshop maken we een 
 - Login met je GitHub account, accepteer de 'scopes'
 - Je komt op de my Repository page
 
-## Eerste analyse
+## Eerste 2 analyses
 - druk op de play knop voor een van de repositories
 - de analyse zal starten en uw eerste rapport opent
+- ga naar terug naar my repositories page en start de andere analyse
+
+## 
 
 
 
