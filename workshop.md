@@ -15,11 +15,12 @@ Je kan natuurlijk zelf een nieuwe repository maken, in de workshop maken we een 
 
 ## Eerste 2 analyses
 - druk op de play knop voor een van de repositories
-- de analyse zal starten en uw eerste rapport opent
+- de analyse zal starten en uw eerste rapport opent, blader door het rapport
 - ga naar terug naar my repositories page en start de andere analyse
 
-## 
-
+## Issue maken met BetterCodeHub
+- [Issues](https://guides.github.com/features/issues/) zijn een prima manier om taken, verbeteringen en bugs in GitHub vast te leggen.
+- Ga naar beide repos en enable issues. > 
 
 
 
