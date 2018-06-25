@@ -50,7 +50,30 @@ Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses 
 - U ziet dat de guideline Write Short Units nu wel compliant is geworden, (het pijltje omhoog en de groene vink)
 - Klik op de guideline en zie dat de HelloWorld.java candidate nu gezakt is naar 22 lines of code
 - Hoewel deze file een beetje te lang is is nu de guideline wel gehaald, dit is een voorbeeld van de tolerantie als gevolg van de quality profielen.
-- Druk op merge
+- Druk op merge pull request en uw verbetering zal in de code base verwerkt worden
+- Ga naar BetterCodeHub en bekijk de score van Learnakka.
+
+## 8. Van een 9 naar een 10!
+- Na stap 7 heeft uw code nu 9 van de 10 guidelines.
+- Bekijk de guideline Write Code Once, deze is rood en niet compliant
+- klik in het vakje voor 29 lines .. en merk op dat de voorspelling van het nieuwe profiel zal resulteren in nog een groene guideline
+- Klik op de de guideline, creeer een GitHub issue
+- en zoek weer naar de file om nu de duplicatie volledig weg te halen
+- doe dit door ook de regel 18 - 35 te deleten
+- maak weer een branch en een Pull Request en zie de nieuwe score
+
+## 9. Toon de score dmv een badge!
+Nu de learnakka op alle guidelines compliant is gaan we een badge plaatsen.
+- Ga hiervoor naar BetterCodeHub, naar de my repos page en druk op het gear icon
+- kopier uit de settings dialog het stukje code bij Grab your badge for markdown
+- [![BCH compliance](https://bettercodehub.com/edge/badge/UWNAAM/learnakka?branch=master)](https://bettercodehub.com/)
+- Ga naar de readme.md van Learnakka op GitHub, plaats het in edit mode en voeg de code toe.
+- Hier kan je direct op master committen ;-)
+
+
+
+
+
 
 
 
