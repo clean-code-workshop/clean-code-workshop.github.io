@@ -43,6 +43,15 @@ Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses 
 - In de commit changes onder in de pagina kiest u Create a new branch, verander eventueel de naam en druk [propose file change]
 - Er opent een Pull request waar u informatie aan kan toevoegen, druk op Create Pull Request
 - Als de webhook van #5 goed gezet is zal BetterCodeHub gaan draaien 
+- Na een kleine minuut zal In de Pull request zal een All checks have passed verschijnen
+- Klik op Show All Checks 
+- Bekijk het commentaar dat BetterCodeHub daar heeft geschreven
+- Klik op details en inspecteer het analyse rapport
+- U ziet dat de guideline Write Short Units nu wel compliant is geworden, (het pijltje omhoog en de groene vink)
+- Klik op de guideline en zie dat de HelloWorld.java candidate nu gezakt is naar 22 lines of code
+- Hoewel deze file een beetje te lang is is nu de guideline wel gehaald, dit is een voorbeeld van de tolerantie als gevolg van de quality profielen.
+- Druk op merge
+
 
 
 
