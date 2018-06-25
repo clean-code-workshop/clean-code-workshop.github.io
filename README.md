@@ -1,4 +1,4 @@
-# Kijk real-time onder de motorkap met online-tool van de Software Improvement Group (sig.eu)
+# Kijk real-time onder de motorkap met online-tool van Software Improvement Group
 
 BetterCodeHub.com een code kwaliteit tool in de developer workflow (CI/CD) van GitHub.
 
