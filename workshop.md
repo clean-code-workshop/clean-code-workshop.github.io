@@ -1,9 +1,9 @@
 ## 1. Benodigheden workshop
 - Chrome / Safari / Firefox browser
-- GitHub account, heb je dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
+- GitHub account, heeft u dat dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
 
 ## 2. Zet twee public repositories met code in je GitHub account
-Je kan natuurlijk zelf een nieuwe repository maken, in de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos.
+Je kan zelf een nieuwe repository maken, in de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos.
 
 - [https://github.com/SSC-ICT-demo/training-assignments-simple](https://github.com/SSC-ICT-demo/training-assignments-simple)
 - [https://github.com/SSC-ICT-demo/learnakka](https://github.com/SSC-ICT-demo/learnakka)
