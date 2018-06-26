@@ -70,8 +70,10 @@ Nu de learnakka op alle guidelines compliant is gaan we een trotse badge plaatse
 - Hier kan je direct op master committen ;-)
 - bekijk uw trotse badge
 
-## 10. Exploreer andere repos
-Maak fork van andere repos
+## 10. Extra
+
+- Maak fork van andere repos
+- [How to build a modern CI pipeline DevOps Tutorial](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b)
 
 
 
