@@ -5,8 +5,8 @@
 ## 2. Zet twee public repositories met code in je GitHub account
 Je kan zelf een nieuwe repository maken, in de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos.
 
-- [https://github.com/SSC-ICT-demo/training-assignments-simple](https://github.com/SSC-ICT-demo/training-assignments-simple)
-- [https://github.com/SSC-ICT-demo/learnakka](https://github.com/SSC-ICT-demo/learnakka)
+- [https://github.com/clean_code_workshop/training-assignments-simple](https://github.com/clean_code_workshop/training-assignments-simple)
+- [https://github.com/clean_code_workshop/learnakka](https://github.com/clean_code_workshop/learnakka)
 
 ## 3. Installeer BetterCodeHub
 - Ga naar [BetterCodeHub.com](https://BetterCodeHub.com)
