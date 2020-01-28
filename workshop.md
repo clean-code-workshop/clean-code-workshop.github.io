@@ -15,12 +15,12 @@ Je kan zelf een nieuwe repository maken, in de workshop maken we een [fork](http
 - Je wordt welkom geheten op de my Repository page 
 
 ## 4. Eerste analyses
-- druk op de Play knop van een van de repositories, daarna de ander, gebruik het not analysed filter om de repos te zien.
-- de analyse zal starten en uw eerste rapport opent, blader door het rapport, zie de overall score en de guidelines.
-- ga naar terug naar my repositories page en start de andere analyse
+- druk op de Play knop van een van de repositories.
+- de analyse zal starten en na 2 minuten opent uw eerste rapport, blader door het rapport, zie de overall score en de guidelines.
+- ga naar terug naar my repositories page en start de andere analyse. Blader ook door dat rapport.
 
-## 5. Aanzetten Push en Pull Request integratie -- CI/CD integratie
-Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses gedraaid zullen worden bij elke 'commit' op de code. Daarmee wordt BetterCodeHub direct een vooledig onderdeel van de CI/CD pipeline.
+## 5. Aanzetten Push & Pull Request integratie a.k.a. CI/CD integratie
+Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses gedraaid zullen worden bij elke 'commit' op de code. Daarmee wordt BetterCodeHub direct een volledig onderdeel van de CI/CD pipeline.
 - Ga naar de my repos page en druk op beide cards op het Pull request icoon links onder.
 - Omdat BetterCodeHub voor deze actie schrijfrechten nodig heeft in de repo krijgt u nu een additionele 'scope' vraag, accepteer ook deze.
 - De melding volgt dat Push en Pull request is enabled
