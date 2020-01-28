@@ -1,6 +1,6 @@
 # Kijk onder de motorkap van software
 
-Welkom in deze Clean Code Workshop.
+Welkom in deze Clean Code Workshop voor UBR trainees
 
 ## Voor wie
 - Ben je developer en ben je trots op je werk? Wil je aantonen dat jouw werk technisch goed in elkaar zit? 
