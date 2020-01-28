@@ -1,4 +1,4 @@
-# Kijk onder de motorkap met tool van Software Improvement Group
+# Kijk onder de motorkap van software
 
 BetterCodeHub.com is een code kwaliteit tool in de developer workflow (CI/CD) van GitHub.
 
