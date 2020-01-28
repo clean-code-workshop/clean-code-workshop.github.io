@@ -1,6 +1,6 @@
 # Kijk onder de motorkap van software
 
-BetterCodeHub.com is een code kwaliteit tool in de developer workflow (CI/CD) van GitHub.
+Welkom in deze Clean Code Workshop.
 
 ## Voor wie
 - Ben je developer en ben je trots op je werk? Wil je aantonen dat jouw werk technisch goed in elkaar zit? 
