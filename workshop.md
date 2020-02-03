@@ -1,9 +1,9 @@
 ## 1. Benodigheden workshop
-- Chrome / Safari / Firefox browser
+- Chrome / Safari browser
 - GitHub account, heeft u dat dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
 
-## 2. Zet twee public repositories met code in je GitHub account
-Je kan zelf een nieuwe repository maken, in de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos.
+## 2. 'Fork' twee public repositories met code in je GitHub account
+In de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos. Als je zelf repositories hebt is dat ook mogelijk.
 
 - [https://github.com/clean-code-workshop/training-assignments-simple](https://github.com/clean-code-workshop/training-assignments-simple)
 - [https://github.com/clean-code-workshop/learnakka](https://github.com/clean-code-workshop/learnakka)
