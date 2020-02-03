@@ -1,4 +1,4 @@
-## 1. Benodigheden workshop
+## 1. Randvoorwaarden workshop
 - Chrome / Safari browser
 - GitHub account, heeft u dat dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
 
