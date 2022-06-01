@@ -1,6 +1,7 @@
 ## 1. Randvoorwaarden workshop
 - Chrome / Safari browser
 - GitHub account, heeft u dat dat nog niet maak dan [hier](https://github.com/join?source=header-home) een account  aan.
+- Sigrid-says.com account, geef je trainer je email en je ontvangt een account
 
 ## 2. 'Fork' twee public repositories met code in je GitHub account
 In de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/) van twee public repos. Als je zelf repositories hebt is dat ook mogelijk.
@@ -9,10 +10,9 @@ In de workshop maken we een [fork](https://help.github.com/articles/fork-a-repo/
 - [https://github.com/clean-code-workshop/learnakka](https://github.com/clean-code-workshop/learnakka)
 
 
-## 3. Installeer BetterCodeHub
-- Ga naar [BetterCodeHub.com](https://BetterCodeHub.com)
-- Login met je GitHub account, accepteer de public 'scopes'
-- Je wordt welkom geheten op de my Repository page 
+## 3. Installeer Github actions 
+- In de repo die je zojuist geforked hebt maak je een .github.yml file aan
+
 
 ## 4. Eerste analyses
 - druk op de Play knop van een van de repositories.
@@ -26,14 +26,6 @@ Push en Pull request intergratie van BetterCodeHub zorgt ervoor dat de analyses 
 - De melding volgt dat Push en Pull request is enabled
 - Controleer de webhook door in GitHub.com/uwaccount/learnakka te kijken onder Settings > Webhooks.
 - Het groene vinkje in GitHub geeft aan dat de webhook actief is.
-
-## 6. Eerste Issue maken met BetterCodeHub
-- [Issues](https://guides.github.com/features/issues/) zijn een de GutHub manier om taken, verbeteringen en bugs vast te leggen. (Een andere tool op dit gebied is Jira, hiermee heeft GitHub intergraties.)
-- We gaan voor Learnakka de mogelijkheid om issues te maken activeren.
-- Ga daarvoor in de repo Settings > Options > Features en vink Issues aan.
-- Ga daarna in BetterCodeHub.com naar de analyse van repository LearnAkka. Open Guideline 1: 'Short units of code' zoek naar HelloWorld.java, klik erop zodat de code getoond wordt en klik in de rechter bovenhoek op create issue.
-- Het issue wordt voorbereid in GitHub, u kunt het issue verrijken met meta-data en natuurlijk editen en saven!
-- Het assignen van mensen die het issue moeten gaan fixen valt buiten de workshop, u gaat het issue namelijk zelf oplossen ;-)
 
 
 ## 7. Hello World issue oplossen dmv een Pull Request in GitHub
